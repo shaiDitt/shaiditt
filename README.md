@@ -5,11 +5,11 @@
 </div>
 
 ####
-<p>👋 Hallo, I’m @shaiDitt </p>
-<p>👀 I’m interested in ... JS, HTML, CSS</p>
-<p>🌱 I’m currently learning ... JS, HMTL, CSS, Logic programming</p>
-<p>💞️ I’m looking to collaborate on ... emotinal support //I'm learning too</p>
-<p>📫 How to reach me ... LinkedIn [Shaini Dittberner]</p>
+//👋 Hallo, I’m @shaiDitt\
+//👀 I’m interested in ... JS, HTML, CSS\
+//🌱 I’m currently learning ... JS, HMTL, CSS, Logic programming\
+//💞️ I’m looking to collaborate on ... emotinal support (I'm learning too)
+
 ##
 <!---
 shaiDitt/shaiDitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
