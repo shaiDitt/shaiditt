@@ -8,7 +8,7 @@
 //👋 Hallo, I’m @shaiDitt\
 //👀 I’m interested in ... JS, HTML, CSS\
 //🌱 I’m currently learning ... JS, HMTL, CSS, Logic programming\
-//💞️ I’m looking to collaborate on ... emotinal support (I'm learning too)
+//💞️ I’m looking to collaborate on ... emotional support (I'm learning too)
 
 ##
 <!---
